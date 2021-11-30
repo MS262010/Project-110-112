@@ -1,0 +1,37 @@
+#header{
+    letter-spacing: 10px;
+    font-size: 24px;
+    background-color: rgb(128, 241, 204);
+  }
+  body{ 
+    background-image: url("https://wallpapercave.com/dwp1x/wp9174702.jpg");
+    background-size: cover;
+}
+label{
+    background-color: white;
+    color: rgb(21, 131, 122);
+    padding: 6px;
+    border-radius:20px ;
+  }
+  span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 30px;
+}
+.emoji
+{
+  font-size:40px;
+}
